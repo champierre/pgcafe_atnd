@@ -3,6 +3,8 @@
 // @description    ATNDに、「三鷹プログラマーズカフェ」イベント情報を簡単に登録できるGreasemonkeyスクリプト
 // @namespace      http://mitaka.pgcafe.net
 // @include        http://atnd.org/events/new
+// using [ simple version of $X   ] (c) id:os0x
+//       [ parseHTML              ] copied from Pagerization (c) id:ofk
 // ==/UserScript==
 
 // Version 20091102
